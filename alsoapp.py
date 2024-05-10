@@ -35,7 +35,7 @@ app.layout = html.Div(
                         html.Div(
                             [
                                 html.H3(
-                                    "Capitol Bikeshare",
+                                    "Capitol Bikeshare - QA Test App",
                                     style={"margin-bottom": "0px"},
                                 ),
                                 html.H5(
